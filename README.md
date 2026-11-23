@@ -1,8 +1,8 @@
 # DUEL KARTU: ARENA — turn-based card duel vs the Rival
 
-[![make.fun competition](https://img.shields.io/badge/make.fun-best--card--game--20261122--1826-orange)](https://make.fun/competitions/best-card-game-20261122-1826)
-[![make.fun rank](https://img.shields.io/badge/make.fun-rank-top--10-blue)](https://make.fun/competitions/best-card-game-20261122-1826)
-[![make.fun reward](https://img.shields.io/badge/make.fun-reward-%2450-green)](https://make.fun/competitions/best-card-game-20261122-1826)
+[![make.fun · best-card-game-20261122-1826](https://make.fun/badge/best-card-game-20261122-1826.svg)](https://make.fun/bounty/best-card-game-20261122-1826?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
+[![rank](https://make.fun/badge/best-card-game-20261122-1826/xfreehome/best-card-game-01/rank.svg)](https://make.fun/bounty/best-card-game-20261122-1826/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
+[![reward](https://make.fun/badge/best-card-game-20261122-1826/xfreehome/best-card-game-01/reward.svg)](https://make.fun/bounty/best-card-game-20261122-1826?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
 
 A turn-based card duel in a desktop browser, from static files with no network
 request. You and the Rival each have 30 HP; every turn you play 1 card from a
